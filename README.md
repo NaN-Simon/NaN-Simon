@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NaN-Simon
-- 👀 I’m interested in learning HTML, CSS, JavaScript and React.
+- 👀 I’m interested in learning HTML, CSS, JavaScript.
 - 🌱 I’m currently learning Git.
-- 💞️ I would like to create websites or games
+- 💞️ I would like to create websites and games
 - 📫 How to reach me 3w.work@gmail.com
 
 <!---
