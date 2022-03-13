@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @NaN-Simon
 - 👀 I’m interested in learning HTML, CSS, JavaScript.
-- 🌱 I’m currently learning Git.
+- 🌱 I'm currently making UI-Kit at the Metalamp (repo webpack-Isaev-hotel_toxin)
 - 💞️ I would like to create websites and games
 - 📫 How to reach me 3w.work@gmail.com
-
-<!---
-NaN-Simon/NaN-Simon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
