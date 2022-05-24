@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NaN-Simon
-- 👀 I’m interested in learning HTML, CSS, JavaScript.
-- 🌱 I'm currently making UI-Kit at the Metalamp (repo webpack-Isaev-hotel_toxin)
-- 💞️ I would like to create websites and games
-- 📫 How to reach me 3w.work@gmail.com
+- 👋 Hi, **I’m** NaN-Simon!
+- 👀 I’m **interested** in learning HTML, CSS, JavaScript.
+- 🌱 I am currently **taking** The Rolling Scopes School Stage 1.
+- 💞️ I would **like** to create websites and games
+- 📫 How to **reach** me 3w.work@gmail.com, [@NaN_Simon](https://t.me/nan_simon)
