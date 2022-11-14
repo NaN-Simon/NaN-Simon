@@ -1,5 +1,6 @@
 - 👋 Hi, **I’m** NaN-Simon!
-- 👀 I’m **interested** in learning HTML, CSS, JavaScript.
-- 🌱 I am currently **taking** Metalamp Task 2.
+- 👀 I’m **interested** in learning frontend development.
+- 🎉 I **know**: HTML/Pug, CSS/SCSS, JavaScript, Webpack, GIT; A **little**: TypeScript, React.
+- 🌱 I am currently **taking** Metalamp Task 4.
 - 💞️ I would **like** to create websites and games
 - 📫 How to **reach** me 3w.work@gmail.com, [@NaN_Simon](https://t.me/nan_simon)
