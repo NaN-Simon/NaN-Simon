@@ -1,6 +1,12 @@
-- 👋 Hi, **I’m** NaN-Simon!
-- 👀 I’m **interested** in learning frontend development.
-- 🎉 I **know**: HTML/Pug, CSS/SCSS, JavaScript/TypeScript, React, Webpack, GIT, Docker, AXIOS, NextJS.
-- 🌱 I am currently **taking** the task (clone twitter) in the [fork-code-camp](https://github.com/fork-code-camp) team
-- 💞️ I would **like** to create websites and games
-- 📫 How to **reach** me 3w.work@gmail.com, [@NaN_Simon](https://t.me/nan_simon)
+* 👋 Hi, I’m **NaN-Simon**!
+* 👀 I’m **frontend** development.
+* 🎉 My technology **stack**: 
+  + HTML, PUG, CSS, SCSS
+  + JavaScript (ES6, ES5) + Typescript
+  + **REACT**, Redux, RTK Query, Next-JS, react-query, react-hook-form
+  + **VUE3**, NUXT-JS, Pinia
+  + **Webpack**
+  + Material-UI, Bootstrap
+  + AXIOS, Git, Jest, Docker
+  + BEM, Flex, Grid, Adaptive
+* 📫 How to **reach** me [Email](3w.work@gmail.com), [Telegram](https://t.me/nan_simon)
